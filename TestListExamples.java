@@ -19,3 +19,11 @@ public class TestListExamples {
     assertEquals(expected, merged);
   }
 }
+
+public class MyTest{
+  @Test
+  System.out.println("Hello")
+}
+
+
+
